@@ -1,4 +1,8 @@
 <h2 align="center">Opa 👋! Sou um iniciante em programação...</h2>
+<details align="center">
+  <summary>👨‍💻 More about me</summary>
+  - 💬 I am 16 years old, currently living in Brazil. I understand basic English (understanding simple sentences and basic reading) and have (basic) experience with JavaScript, Python, Marketing, Design and Artificial Intelligence.
+</details>
 
 ###
 
